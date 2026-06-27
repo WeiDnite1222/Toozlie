@@ -1,0 +1,6 @@
+name: Toozlie
+version: '1.0-dev'
+main: net.wei.toozlie.Toozlie
+api-version: '1.21'
+depend: [PlaceholderAPI, ConfigLib]
+softdepend: [Floodgate]
