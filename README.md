@@ -5,7 +5,7 @@
 
 ## Installation
 
-### 1. Download release from repo and put jar file into your server's plugin folder.
+### 1. Download release from this repo and put jar file into your server's plugin folder.
 ### 2. Install necessary plugin(s) below:
 * [Placeholder](https://github.com/PlaceholderAPI/PlaceholderAPI)
 * [ConfigLib](https://github.com/Exlll/ConfigLib/releases)
